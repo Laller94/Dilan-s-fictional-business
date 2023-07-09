@@ -1,4 +1,4 @@
-# Dilan-s-fictional-business
+# Dilan's fictional business
 Dilan is a world traveler and a solo entrepreneur. He writes a travel blog where he sells info products: a $8 e-book (World Travelers' Best Practices) and a $80 video course (How To Travel the World).
 On his blog he has thousands of readers every day, coming from three sources: Reddit, SEO and AdWords.
 Dilan writes about his travel experiences covering the 6 main continents of the planet - these are the main categories on the blog.
