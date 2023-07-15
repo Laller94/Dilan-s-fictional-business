@@ -14,3 +14,17 @@ Cohort Analysis
 Conversion Rate 
 
 Monthly and Daily User Trends
+
+Key insights from the the analysis:
+
+Revenue Analysis: From the data, it can be observed that "country_5" has generated the highest revenue of 47.808 $, followed by "country_2" with 34.036 $, and "country_7" with 33.654 $. On the other hand, "country_1" has generated the lowest revenue of 585 $.
+Based on only the revenue Dilan should focus on "country_5", because that is where most of his income flows in.
+
+Funnel Analysis: "country_1" and "country_8" has better retention rate, although there are less customers in these countries.
+
+Cohort Analysis: There is a high churn rate, most customers keep dropping out in a week or so.
+
+Conversion rate: The conversion rate is low to medium, but those customers who subscribe to Dilans' newsletter are more likely to buy his products.
+
+Monthly and Daily User Trends: From the three months data, the visitors of Dilans' blog is in an increasing tendeny.
+
