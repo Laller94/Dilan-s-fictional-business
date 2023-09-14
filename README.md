@@ -26,5 +26,5 @@ Cohort Analysis: There is a high churn rate, most customers keep dropping out in
 
 Conversion rate: The conversion rate is low to medium, but those customers who subscribe to Dilans' newsletter are more likely to buy his products.
 
-Monthly and Daily User Trends: From the three months data, the visitors of Dilans' blog is in an increasing tendeny.
+Monthly and Daily User Trends: From the three months data, the visitors of Dilans' blog is in an increasing tendency.
 
